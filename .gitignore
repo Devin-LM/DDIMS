@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+.mvn/wrapper/maven-wrapper.jar
+
+
+### IntelliJ IDEA ###
+.idea
